@@ -7,7 +7,7 @@ Simple file converter : Print a sheet from a XLSX file to standard ouput (Stdout
 Use Go dependency management tool https://golang.github.io/dep/
 
 ```shell
-go get -u github.com/nicr42/xlsx-converter
+go get github.com/nicr42/xlsx-converter
 dep ensure -update
 ```
 
