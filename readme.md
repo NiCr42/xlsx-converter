@@ -1,6 +1,6 @@
 # XSLX Converter
 
-Simple file converter : Print a sheet from a XLSX file to standard ouput (Stdout) as CSV format.
+Simple file converter : Print a sheet from a XLSX file to standard output (Stdout) as CSV format.
 
 ## Installation
 
