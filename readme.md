@@ -1,5 +1,7 @@
 # XSLX Converter
 
+This repository isn't maintain any more.
+
 Simple file converter : Print a sheet from a XLSX file to standard output (Stdout) as CSV format.
 
 ## Installation
